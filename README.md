@@ -2,13 +2,11 @@
 Build a Linear Regression Model which can predict the demand of Shared bikes. 
 
 
-
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Contact](#contact)
-
 
 
 ## General Information
@@ -19,14 +17,7 @@ DataSet and Data dictionary is provided.
 
 
 ## Technologies Used
-Following Python Libraries are used during the code development: 
-Matplotlib
-seaborn
-sklearn
-statsmodels
-numpy
-pandas
-
+Following Python Libraries are used during the code development: matplotlib, seaborn, sklearn, statsmodels, numpy, pandas
 
 
 ## Conclusions
