@@ -21,7 +21,7 @@ Following Python Libraries are used during the code development: matplotlib, sea
 
 
 ## Conclusions
-Demand of Shared Bikes is highly dependent on temperature, humidity and Wind Speed.
+Demand of Shared Bikes is highly dependent on temperature and Wind Speed.
 Demand of Shared Bikes is more in September.
 Demand of Shared Bikes increases in Winter.
 Demand of Shared Bikes is less in Weather type 3( Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds).
