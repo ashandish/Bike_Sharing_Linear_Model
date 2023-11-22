@@ -10,8 +10,12 @@ Build a Linear Regression Model which can predict the demand of Shared bikes.
 
 
 ## General Information
-Shared bikes can be borrowed by people on rental basis. Business problem is to find the variables on which demand of shared bikes depend.
+Shared bikes can be borrowed by people on rental basis. 
+
+Business problem is to find the variables on which demand of shared bikes depend.
+
 Business Goal is to develop a a Linear Regression Model which can predict the demand of Shared bikes. 
+
 We are using the dataset day.csv which has records of 2 years by date with count of bikes rented every day based on factors such as weather, temperature, windspeed , season etc. 
 DataSet and Data dictionary is provided. 
 
