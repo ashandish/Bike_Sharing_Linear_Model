@@ -34,4 +34,4 @@ With the years passing by, the demand of Sharing bikes is increasing as the dema
 
 
 ## Contact
-Created by [@ashandish] - feel free to contact me!
+Created by ashandish@yahoo.com - feel free to contact me!
